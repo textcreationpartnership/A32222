@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration to all his loving subjects, December 26, 1662</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32222</idno>
+            <idno type="STC">Wing C2988</idno>
+            <idno type="STC">ESTC R13998</idno>
+            <idno type="EEBO-CITATION">12937295</idno>
+            <idno type="OCLC">ocm 12937295</idno>
+            <idno type="VID">95802</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32222)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95802)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 733:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration to all his loving subjects, December 26, 1662</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95802:1"/>
+            <p>His Majeſties DECLARATION TO All His loving SUBJECTS, <hi>December</hi> 26. 1662.</p>
+            <p>Publiſhed by the Advice of His Privy Council.</p>
+            <figure>
+               <head>C R</head>
+               <q>DIEV ET MON DROIT</q>
+               <q>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Maieſty, 1662.</p>
+            <p>C<g ref="char:V">Ʋ</g>M PRIVILEGIO.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:95802:2"/>
+            <pb n="1" facs="tcp:95802:2"/>
+            <head>His Majeſties DECLARATION TO All His loving SUBJECTS, <hi>December</hi> 26. 1662.</head>
+            <opener>
+               <signed>
+                  <hi>CHARLES</hi> R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S it hath pleaſed Almighty God ſo wonderfully to re<g ref="char:EOLhyphen"/>ſtore Us to the Throne of Our Anceſtors, and Our Subjects to happy Peace and Tranquillity, without the leaſt Bloudſhed by the Military Sword; ſo having ſtill earneſtly wiſhed that both might be ſecured and main<g ref="char:EOLhyphen"/>tained with the leaſt effuſion poſſible of the ſame by the Sword of Juſtice, as deſiring much rather to cure the ill Intentions of the Diſaffected by Our Clemency, then to pu<g ref="char:EOLhyphen"/>niſh the Effects of them by Rigour of Law:</p>
+            <p>
+               <pb n="2" facs="tcp:95802:3"/>
+We cannot but expreſs Our great grief and trouble, That the Unpardonable, as well as Incurable Malignity of ſome ſhould have carried them anew to ſuch Traiterous pra<g ref="char:EOLhyphen"/>ctices againſt Our Perſon and Government, as have neceſſitated Us to make freſh Examples by the death of any more of Our Subjects. But as the Publickneſs of their Tryal in the ordinary courſe of Law, hath by their Con<g ref="char:EOLhyphen"/>viction ſufficiently ſatisfied the world of the Enormity of their Crimes, ſo We have thought fit at the ſame time that We are forced to puniſh, to endeavour as much as in Us lieth, the preventing all occaſions of the like for the future by this Declaration; Wherein Our principal aim is, to apply proper Antidotes to all thoſe Venemous In<g ref="char:EOLhyphen"/>ſinuations, by which (as We are certainly in<g ref="char:EOLhyphen"/>formed) ſome of Our Subjects of Inveterate and Unalterable ill Principles, do daily endea<g ref="char:EOLhyphen"/>vour to poiſon the affections of Our good People, by miſleading their Underſtandings, and that principally by Four ſorts of moſt falſe and malicious Scandals, which We do look upon as the Grounds of thoſe Traite<g ref="char:EOLhyphen"/>rous Attempts.</p>
+            <p>The Firſt, <hi>by ſuggesting unto them, That ha<g ref="char:EOLhyphen"/>ving attained Our ends in re-eſtabliſhing Our Regal Authority, and gaining the Power into Our own hands by a ſpecious Condeſcention to a
+<pb n="3" facs="tcp:95802:3"/>general Act of Indempnity, We intend nothing leſs then the Obſervation of it; but on the con<g ref="char:EOLhyphen"/>trary by degrees to ſubject the Perſons and Eſtates of all ſuch who stood in need of that Law to fu<g ref="char:EOLhyphen"/>ture revenge, and to give them up to the ſpoil of thoſe, who had loſt their Fortunes in Our Ser<g ref="char:EOLhyphen"/>vice.</hi>
+            </p>
+            <p>Secondly, <hi>That upon pretence of Plots and practices againſt <g ref="char:V">Ʋ</g>s, We intend to introduce a Mi<g ref="char:EOLhyphen"/>litary way of Government in this Kingdom.</hi>
+            </p>
+            <p>Thirdly, <hi>That having made uſe of ſuch So<g ref="char:EOLhyphen"/>lemn Promiſes from</hi> Breda, <hi>and in ſeveral De<g ref="char:EOLhyphen"/>clarations ſince, of eaſe and liberty to tender Con<g ref="char:EOLhyphen"/>ſciences, inſtead of performing any part of them; We have added ſtreighter fetters then ever, and new rocks of ſcandal to the ſcrupulous, by the Act of <g ref="char:V">Ʋ</g>niformity.</hi>
+            </p>
+            <p>Fourthly and laſtly, We finde it as artifi<g ref="char:EOLhyphen"/>cially as maliciouſly divulged throughout the whole Kingdom, <hi>That at the ſame time We de<g ref="char:EOLhyphen"/>ny a ſitting liberty to thoſe other Sects of our Sub<g ref="char:EOLhyphen"/>jects, whoſe Conſciences will not allow them to conform to the Religion establiſhed by Law; We are highly indulgent to Papists, not only in ex<g ref="char:EOLhyphen"/>empting them from the penalties of the Law, but even to ſuch a degree of Countenance and In<g ref="char:EOLhyphen"/>couragement, as may even endanger the Prote<g ref="char:EOLhyphen"/>ſtant Religion.</hi>
+            </p>
+            <p>Upon occaſion of all which wicked and ma<g ref="char:EOLhyphen"/>licious ſuggeſtions, although We are confi<g ref="char:EOLhyphen"/>dent
+<pb n="4" facs="tcp:95802:4"/>that the innate Loyalty and good Af<g ref="char:EOLhyphen"/>fections of the generality of Our People, ſtrengthned by a due ſenſe of the late Calami<g ref="char:EOLhyphen"/>ties brought upon them by the ſame Arts, will hinder ſeeds of ſo deteſtable a nature from ta<g ref="char:EOLhyphen"/>king root, and bringing forth the fruits aimed at by the ſowers of them: Yet We think that in Our Fatherly care to prevent any miſ-lead<g ref="char:EOLhyphen"/>ing of thoſe, who are ſo dear to Us, We owe unto them and to Our ſelves this Publi<g ref="char:EOLhyphen"/>cation of Our ſtedfaſt Reſolutions in all theſe particulars.</p>
+            <p>As to the firſt Point, concerning the Act of Indempnity; Certainly there can be no greater evidence, that the paſſing it proceeded from the Clemency of Our Nature, as well as from the preſent Conjuncture of that Parlia<g ref="char:EOLhyphen"/>ment wherein it was firſt framed, then that We have been pleaſed to make it Our eſpe<g ref="char:EOLhyphen"/>cial care to have it confirmed by a New Act in this, a Parliament compoſed of Members ſo full of Affections to Our Perſon, and of Zeal for the Publique good, as We could never have cauſe to apprehend their Exact<g ref="char:EOLhyphen"/>ing from Us a Confirmation of any thing that had been before Extorted, or had at preſent been judged by Us prejudicial to either; and therefore as We not only conſented unto, but moſt earneſtly deſired the paſſing that Act at firſt, and confirming it ſince, as being no leſs
+<pb n="5" facs="tcp:95802:4"/>conformable to Our nature, then conducible to a happy Settlement: ſo We do hereby moſt ſolemnly renew unto all Our Subjects concerned in it, this Engagement, on the Word of a King, That it ſhall never be in the power of any Perſon or Intereſt whatſo<g ref="char:EOLhyphen"/>ever, to make Us decline from the Religious Obſervance of it; it having been always a conſtant Profeſſion of Ours, That We do and ſhall ever think Our Royal Dignity and Greatneſs much more happily, and ſecurely founded on Our own Clemency and Our Subjects Loves, then in their Fears, and Our Power.</p>
+            <p>Which moſt ſincere Profeſſion of Ours may ſuffice alſo to expoſe the wickedneſs and falſhood of the other malice concerning the deſign of introducing a way of Government by Military power.</p>
+            <p>It is true, that We ſhould not think We diſ<g ref="char:EOLhyphen"/>charged rightly what We owe to the Publique Peace, and to the Freedom and Security of Parliaments, as well as to the Safety of Our Perſon, if whileſt We daily diſcover ſuch multitudes of diſtempered Minds, and ſuch dangerous Practices iſſuing from them, We ſhould for want of ſufficient Guards put it in the power of thoſe Rebellious Spirits to un<g ref="char:EOLhyphen"/>dertake probably at any time, what they have at ſeveral times ſo madly attempted for the
+<pb n="6" facs="tcp:95802:5"/>ruine and deſtruction of us; all. Of which certainly, beſides the preſent occaſion of new Precaution as well as new Severity, We ſup<g ref="char:EOLhyphen"/>poſe all our good Subjects need not a livelier nor more moving inſtance, than what their memories can furniſh them with, from the de<g ref="char:EOLhyphen"/>ſperate undertaking of <hi>Venner</hi> and his Crew, which (as mad as it was) We leave to all the world to judge, of how dangerous a Conſe<g ref="char:EOLhyphen"/>quence it might have been, without that little ſtrength remaining of thoſe Forces, which (to give Our People a teſtimony of Our founding all Our ſecurity rather in their Affections then in any military Power) We had ſo frankly disbanded, and which afterwards by advice of Our Council, meerly upon motives of the Publique Safety, We conſented to increaſe to that moderate Proportion, which was in<g ref="char:EOLhyphen"/>deed abſolutely neceſſary, and hath ſince been ſufficiently proved to be ſo, by the ſecurity which We owe to them from the late danger<g ref="char:EOLhyphen"/>ous practices.</p>
+            <p>But the reaſons of ſuch Precautions once ceaſing, We are very ſure, that what Guards ſoever may be found neceſſary for Us to con<g ref="char:EOLhyphen"/>tinue, as in former times, for the Dignity and Honour of Our Crown; the ſole Strength and Security We ſhall ever confide in, ſhall be the Hearts and Affections of Our Subjects, indeared and confirmed to Us by Our Gra<g ref="char:EOLhyphen"/>cious
+<pb n="7" facs="tcp:95802:5"/>and ſteady manner of Government, ac<g ref="char:EOLhyphen"/>cording to the ancient known Laws of the Land; there being not any one of Our Sub<g ref="char:EOLhyphen"/>jects, who doth more from his heart abhor, then We Our Selves, all ſort of Military and Arbitrary Rule.</p>
+            <p>As for the Third concerning the Non<g ref="char:EOLhyphen"/>performance of Our Promiſes, We remember well the very words of thoſe from <hi>Breda;</hi>
+            </p>
+            <p>Viz. <hi>We do Declare a Liberty to Tender Conſciences, and that no man ſhall be diſquieted or called in queſtion for differences of Opinion in matters of Religion, which do not diſturb the Peace of the Kingdom; and that We ſhall be rea<g ref="char:EOLhyphen"/>dy to conſent to ſuch an Act of Parliament, as upon mature deliberation ſhall be offered to <g ref="char:V">Ʋ</g>s for the full granting that Indulgence.</hi>
+            </p>
+            <p>We remember well the Confirmations We have made of them ſince upon ſeveral occaſions in Parliament; and as all theſe things are ſtill freſh in Our memory, ſo are We ſtill firm in the reſolution of performing them to the full. But it muſt not be wondred at, (ſince that Parliament, to which thoſe Pro<g ref="char:EOLhyphen"/>miſes were made in relation to an Act, never thought fit to offer Us any to that purpoſe) that being ſo zealous as We are (&amp; by the grace of God ſhall ever be) for the maintenance of the true Proteſtant Religion, finding it ſo ſha<g ref="char:EOLhyphen"/>ken (not to ſay overthrown) as VVe did,
+<pb n="8" facs="tcp:95802:6"/>VVe ſhould give its eſtabliſhment the prece<g ref="char:EOLhyphen"/>dency before matters of Indulgence to Diſſen<g ref="char:EOLhyphen"/>ters from it. But that once done, (as VVe hope it is ſufficiently by the Bill of Uniformi<g ref="char:EOLhyphen"/>ty) We are glad to lay hold on this occaſi<g ref="char:EOLhyphen"/>on to renew unto all Our Subjects concern<g ref="char:EOLhyphen"/>ed in thoſe Promiſes of Indulgence by a true tenderneſs of Conſcience, this aſſurance:</p>
+            <p>That as in the firſt place We have been Zealous to ſettle the Uniformity of the Church of <hi>England,</hi> in Diſcipline, Ceremo<g ref="char:EOLhyphen"/>ny and Government, and ſhall ever conſtant<g ref="char:EOLhyphen"/>ly maintain it:</p>
+            <p>So as for what concerns the Penalties upon thoſe who (living peaceably) do not conform thereunto through ſcruple and tenderneſs of miſguided Conſcience, but modeſtly and without ſcandal perform their devotions in their own way, We ſhall make it Our ſpecial Care ſo far forth as in Us lies, without invading the Freedom of Parliament, to incline their Wiſdom at this next ap<g ref="char:EOLhyphen"/>proaching Seſſions, to concur with Us in the making ſome ſuch Act for that purpoſe, as may enable Us to exerciſe with a more univerſal ſatisfaction, that Power of Diſpenſing, which VVe conceive to be inherent in Us. Nor can VVe doubt of their chearful cooperating with Us in a thing wherein VVe do conceive Our ſelves ſo far engaged, both in Honour, and in what VVe owe to the Peace of Our
+<pb n="9" facs="tcp:95802:6"/>Dominions, which We profeſs we can never think ſecure, whilſt there ſhall be a colour left to the malicious and diſaffected to inflame the minds of ſo many multitudes upon the ſcore of Conſcience, with deſpair of ever ob<g ref="char:EOLhyphen"/>taining any effect of Our Promiſes for their Eaſe.</p>
+            <p>In the laſt place, as to that moſt pernicious and injurious Scandal, ſo artificially ſpread and fomented, of Our Favor to Papiſts; as it is but a repetition of the ſame deteſtable Arts, by which all the late calamities have been brought upon this Kingdom in the time of our Royal Father of Bleſſed Memory, (who, though the moſt Pious and Zealous Proteſtant that, ever Reigned in this Nation, could never waſh off the ſtains caſt upon him by that malice, but by his Martyrdom.) We conceive all Our Subjects ſhould be ſufficiently prepared againſt that poiſon by memory of thoſe diſ<g ref="char:EOLhyphen"/>aſters; eſpecially ſince nothing is more evident, then that the wicked Authors of this ſcan<g ref="char:EOLhyphen"/>dal are ſuch as ſeek to involve all good Pro<g ref="char:EOLhyphen"/>teſtants under the odious name of Papiſts, or Popiſhly affected: Yet we cannot but ſay up<g ref="char:EOLhyphen"/>on this occaſion, that Our Education, and courſe of Life in the true Proteſtant Religion hath been ſuch, and Our Conſtancy in the Profeſſion of it ſo eminent in Our moſt de<g ref="char:EOLhyphen"/>ſperate Condition abroad among Roman
+<pb n="10" facs="tcp:95802:7"/>Catholick Princes, when as the appearance of receding from it had been the likelieſt way in all humane forecaſt, to have procured Us the moſt powerful Aſſiſtances of Our Re-eſtabliſhment, that ſhould any of Our Subjects give but the leaſt admiſſion of that ſcandal into their beliefs, VVe ſhould look upon it as the moſt impardonable offence that they can be guilty of towards Us. 'Tis true, that as VVe ſhall alwaies according to Juſtice retain, ſo We think it may become Us to avow to the VVorld a due ſenſe We have of the greateſt part of Our Roman Ca<g ref="char:EOLhyphen"/>tholick Subjects of this Kingdom, having de<g ref="char:EOLhyphen"/>ſerved well from Our Royal Father of Bleſ<g ref="char:EOLhyphen"/>ſed Memory, and from Us, and even from the Proteſtant Religion it ſelf, in adhering to Us with their Lives and Fortunes for the maintenance of Our Crown in the Religion eſtabliſhed, againſt thoſe who under the name of zealous Proteſtants, imployed both Fire and Sword to overthrow them both. VVe ſhall with as much freedom profeſs unto the world, that it is not in Our Intention to ex<g ref="char:EOLhyphen"/>clude Our Roman Catholick Subjects, who have ſo demeaned themſelves, from all ſhare in the benefit of ſuch an Act, as in purſuance of Our Promiſes, the wiſdom of Our Parlia<g ref="char:EOLhyphen"/>ment ſhall think fit to offer unto Us for the eaſe of tender Conſciences. It might appear
+<pb n="11" facs="tcp:95802:7"/>no leſs then Injuſtice, that thoſe who deſerved well, and continued to do ſo, ſhould be de<g ref="char:EOLhyphen"/>nied ſome part of that mercy, which We have obliged Our Self to afford to ten times the number of ſuch who have not done ſo. Be<g ref="char:EOLhyphen"/>ſides, ſuch are the Capital Laws in force againſt them, as though juſtified in their rigour by the times wherein they were made, We pro<g ref="char:EOLhyphen"/>feſs it would be grievous unto Us to conſent to the Execution of them, by putting any of Our Subjects to death for their Opinions in matter of Religion only. But at the ſame time that We Declare Our little liking of thoſe Sanguinary ones, &amp; Our gracious Intenti<g ref="char:EOLhyphen"/>ons already expreſſed to ſuch of Our Roman Catholick Subjects as ſhall live peaceably, mo<g ref="char:EOLhyphen"/>deſtly, and without ſcandal; We would have them all know, that if for doing what their Duties and Loyalties obliged them to, or from Our acknowledgement of their well-deſerving, they ſhall have the preſumption to hope for a Toleration of their Profeſſion, or a taking away either thoſe marks of diſtinction, or of Our Diſpleaſure, which in a well-go<g ref="char:EOLhyphen"/>verned Kingdom ought always to be ſet upon Diſſenters from the Religion of the State, or to obtain the leaſt Remiſſion in the Strictneſs of thoſe Laws, which either are, or ſhall be made to hinder the ſpreading of their Do<g ref="char:EOLhyphen"/>ctrine, to the prejudice of the true Proteſtant
+<pb n="12" facs="tcp:95802:8"/>Religion; or that upon Our expreſſing (ac<g ref="char:EOLhyphen"/>cording to Chriſtian Charity) Our diſlike of Bloodſhed for Religion only, Prieſts ſhall take the boldneſs to appear and avow them<g ref="char:EOLhyphen"/>ſelves to the offence and ſcandal of good Pro<g ref="char:EOLhyphen"/>teſtants, and of the Laws in force againſt them; they ſhall quickly find, We know as well to be ſevere, when VViſdom requires, as In<g ref="char:EOLhyphen"/>dulgent when Charity and ſence of Merit challenge it from Us.</p>
+            <p>With this We have thought fit to arm Our good Subjects minds againſt the pra<g ref="char:EOLhyphen"/>ctices of Our ill ones, by a true knowledge of Our own; of which now rightly perſwaded, VVe make no queſtion, but that whoſo<g ref="char:EOLhyphen"/>ever they be from whom they can derive the ſpreading or fomenting of any of thoſe wicked ſuggeſtions, they will look upon them with deteſtation, as the moſt dangerous Enemies of our Crown, and of the Peace and Hap<g ref="char:EOLhyphen"/>pineſs of the Nation; And that what VVe have here publiſhed, will happily prepare them all to a chearful expectation of the ap<g ref="char:EOLhyphen"/>proaching Seſſions of Parliament, an Aſſem<g ref="char:EOLhyphen"/>bly ſo eminent in their Loyalty, and their Zeal for the Peace and Proſperity of Our Kingdoms, that having already made thoſe happy Settlements for the maintenance of the Religion eſtabliſhed, and of our juſt Rights, their full concurrence with Us, can no way
+<pb n="13" facs="tcp:95802:8"/>be doubted in the performance of all Our Promiſes, and to the effecting all thoſe Graci<g ref="char:EOLhyphen"/>ous Intentions which (God knows) Our heart is full of, for the Plenty, Proſperity, and univerſal ſatisfaction of the Nation.</p>
+            <p>In order to which, although it be foreign to the main ſcope of this Our Declaration, which is principally to prevent the miſcheifs airned at by the ſcandals therein mentioned, and that wherein VVe reſerve the enlarge<g ref="char:EOLhyphen"/>ment of Our ſelf till the opening of the next Seſſions of Parliament, yet VVe cannot for<g ref="char:EOLhyphen"/>bear hinting here unto Our good Subjects Four particulars, wherein VVe think to give them the moſt important marks of Our Care. Firſt, <hi>In puniſhing by ſevere Laws that licentiouſneſs and impiety, which ſince the diſſolu<g ref="char:EOLhyphen"/>tion of Government, We find to Our great grief, hath overſpread the Nation.</hi> Secondly, <hi>As well by Sumptuary Laws, as by Our own Example of Frugality, to reſtrain the exceſs in mens expences, which is grown ſo general and ſo exorbitant, be<g ref="char:EOLhyphen"/>yond all bounds, either of their qualities or fortunes.</hi> Thirdly, <hi>So to perfect what We have already in<g ref="char:EOLhyphen"/>duſtriouſly begun in the retrenching of all Our own ordinary and extraordinary Charges in Navy, Garriſons, Houſhold, and all their dependants, as to bring them within the compaſs of Our ſetled Revenue, that thereby Our Subjects may have little cauſe to apprehend Our frequent preſſing
+<pb n="14" facs="tcp:95802:9"/>them for new Aſſiſtances. And laſtly, ſo to im<g ref="char:EOLhyphen"/>prove the good Conſequences of theſe Three parti<g ref="char:EOLhyphen"/>culars to the advancement of Trade, that all Our Subjects finding (as well as other Nations envy<g ref="char:EOLhyphen"/>ing) the advantage this hath of them in that prime foundation of Plenty, they may all with minds happily compoſed by Our Clemency and Indul<g ref="char:EOLhyphen"/>gence (inſtead of taking up thoughts of deſerting their Profeſſions, or Tranſplanting) apply them<g ref="char:EOLhyphen"/>ſelves comfortably, and with redoubled induſtry to their ſeveral Vocations, in ſuch manner as the private Intereſt of every one in particular may encourage him to contribute chearfully to the gene<g ref="char:EOLhyphen"/>ral Proſperity.</hi>
+            </p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall,</hi> 
+                  <date>this Twen<g ref="char:EOLhyphen"/>ty ſixth day of <hi>December,</hi> in the Four<g ref="char:EOLhyphen"/>teenth year of Our Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the KINGS moſt Excellent Majeſty, 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
